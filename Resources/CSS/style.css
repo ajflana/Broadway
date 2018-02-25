@@ -1,22 +1,42 @@
-* { font-family: Helvetica}
+* { font-family: Helvetica
+    }
 h1{
   color: white;
   font-size:70px;
   font-weight: bold;
- }
+  text-align: center;
+  background-image: url(../../Resources/Images/the-flatiron-building.png);
+}
+ul{
+  list-style-type: none;
+  font-size:18px;
+}
 h2 {
   font-size: 32px;
   font-weight: bold;
+  text-align: center;
 }
 h3{
   font-size: 23px;
   font-weight: bold;
+  text-align: center;
 }
 p{
   font-size: 14px;
+  text-align: center;
 }
 h4{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-image: url(../../Resources/Images/the-flatiron-building.png);
+}
+h5{
   font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+a{
+  color: white;
 }
